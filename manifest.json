@@ -3,7 +3,7 @@
 
   "name": "Crypto Zen",
   "version": "0.1.1",
-  "description": "Stay calm by changing coinmarketcap.com's price-change colors to green and flipping the chart upside-down",
+  "description": "Stay calm and prevent panic selling by changing coinmarketcap.com's price-change colors to green and flipping the chart upside-down.",
 
   "content_scripts": [{
     "css": ["styles.css"],
