@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Crypto Green",
+  "name": "Crypto Zen",
   "version": "0.1.0",
-  "description": "Stay calm by changing coinmarketcap.com price adjustments to green",
+  "description": "Stay calm by changing coinmarketcap.com's price adjustment colors to green",
 
   "content_scripts": [{
     "css": ["styles.css"],
