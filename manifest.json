@@ -1,14 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "Modify CSS and HTML",
+  "name": "Crypto Green",
   "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "Stay calm by changing coinmarketcap.com price adjustments to green",
 
   "content_scripts": [{
     "css": ["styles.css"],
-    "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "matches": ["https://coinmarketcap.com/*"]
   }]
 
 }
